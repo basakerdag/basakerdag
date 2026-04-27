@@ -2,7 +2,7 @@
 
 I am a computer engineering student who follows a learning by doing approach in software development. My primary motivation is using technology for the benefit of people and creating tools that make a positive social impact. Currently, I am improving my skills in application development and computer vision to build functional solutions for real-world challenges.
 
-🔭**Expertise**
+🔭**I’m currently working on**
 * Application Development & Architecture: Building scalable structures and software solutions within the C# .NET ecosystem.
 * Computer Vision: Working on techniques such as object detection, face recognition, and edge analysis using OpenCV.
 * Data Analytics: Performing data visualization and predictive modeling with machine learning algorithms.
@@ -27,8 +27,8 @@ I am a computer engineering student who follows a learning by doing approach in 
 
 Here are some ideas to get you started:
 
--  I’m currently working on ...
-- 
+-  
+- expertise
 - 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
